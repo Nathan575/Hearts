@@ -1,7 +1,7 @@
 /*
 /    Authors:
 /        Q. Foley
-/        N. Elias
+         N. Elias
 */
 
 import java.util.*;
