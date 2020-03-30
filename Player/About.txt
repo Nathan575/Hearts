@@ -1,0 +1,1 @@
+This folder contains files necessary to create the players in the Hearts Card Game.
