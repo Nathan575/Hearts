@@ -1,0 +1,1 @@
+This folder contains necessary files to create your own challenger in the Hearts Card Game.
