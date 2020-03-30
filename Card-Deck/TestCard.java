@@ -1,7 +1,7 @@
 /*
 /    Authors:
 /        Q. Foley
-/        N. Elias
+         N. Elias
 */
 public class TestCard{
 
