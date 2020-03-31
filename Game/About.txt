@@ -1,1 +1,1 @@
-This folder contains the necessary files to simulate a game of the Hearts Card Game.
+This folder contains the necessary files to simulate a game of Hearts.
