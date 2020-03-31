@@ -1,1 +1,1 @@
-This folder contains the files necessary to create randomized cards/decks in the Hearts Card Game.
+This folder contains the files necessary to create randomized cards and decks in the Hearts Card Game.
